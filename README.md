@@ -1,2 +1,4 @@
 # SUDOKU
-first project
+First Project
+
+Project realised during my last year in High Scool
