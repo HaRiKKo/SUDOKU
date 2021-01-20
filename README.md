@@ -1,5 +1,5 @@
 # SUDOKU
 First Project
 
-Language : PYTHON
+Language : PYTHON;
 Project realised during my last year in High Scool
